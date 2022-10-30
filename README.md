@@ -1,5 +1,6 @@
 # Code Explorer
 
+## Style Guide
 [Follow this Airbnb javascript style guide](https://github.com/airbnb/javascript)
 
 ## Features
