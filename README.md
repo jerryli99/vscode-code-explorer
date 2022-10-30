@@ -1,9 +1,11 @@
-# Code Explorer
+# Code Explorer -- Visual Studio Code extension
 
-## Style Guide 
+## Style Guide
 [Follow this Airbnb javascript style guide](https://github.com/airbnb/javascript)
 
 ## Features
+
+Currently at planning stage
 
 ## Requirements
 
